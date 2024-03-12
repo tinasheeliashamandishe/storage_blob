@@ -3,14 +3,15 @@
 <h2>Description</h2>
 This lab will create a storage account in the Azure Cloud, using the Azure portal.
 <br />
+In this lab a storage account will be created, a container will be added to the storage account, and then  blobs (files) will be uploaded to the container.</b>
+The last step will require access level to be changed so that the blob (files) can be accessed from the internet.</b>
 
 <h2>Environments Used </h2>
 
 - <b>Microsoft Azure and Learn Sandbox</b>
 
 <h2>Lab walk-through:</h2>
-In this lab a storage account will be created, a container will be added to the storage account, and then  blobs (files) will be uploaded to the container.</b>
-The last step will require access level to be changed so that the blob (files) can be accessed from the internet.</b>
+
 
 <p align="center">
 <h4>Step 1</h4>
