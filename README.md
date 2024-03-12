@@ -1,4 +1,4 @@
-<h1>Creating a storage Account/h1>
+<h1>Creating a storage Account<h1>
 
 <h2>Description</h2>
 This lab will create a storage account in the Azure Cloud, using the Azure portal.
