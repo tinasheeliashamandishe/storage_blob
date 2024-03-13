@@ -42,7 +42,7 @@ Under Data storage, select Containers.
 <img src="https://i.imgur.com/Bv1dxPw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br/>
 Select + Container and complete the information.
 <img src="https://i.imgur.com/gDm7vzz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br/>
-nter and verify the values for each setting according to your specifications.
+Enter and verify the values for each setting according to your specifications.
 <img src="https://i.imgur.com/26mMsxU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br/>
 
 <h4>Step 4: Get a picture</h4> 
